@@ -4,7 +4,7 @@
 1) __Graph, Topological, Union Find__
 2) __DFS, BFS, Backtracking__
 3) __Tree, BST, Trie__
-  - Pre order, In order, Post order
+</t>- Pre order, In order, Post order
 4) __Stack, Queue, Heap__
 5) __DP__
 6) __LinkedList__
