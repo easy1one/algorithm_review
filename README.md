@@ -1,8 +1,9 @@
 # algorithm_review
 
 1. Types of Problem
-	(1)Graph, Topological, Union Find
-[1] 
+(1)Graph, Topological, Union Find
+
+
 [2]DFS, BFS, Backtracking
 [3] Tree, BST, Trie / Pre order, In order, Post order
 [4] Stack. Queue, Heap
