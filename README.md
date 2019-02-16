@@ -26,6 +26,6 @@
 9) __hash map__
 10) __calculator__
 11) __serialize__
-- BT: BFS travel; using Que; record NULL
-- BST: preorder travel; using Que to retrieve them; X need to record NULL
-- N-nary T: BFS travel & num of Children; using 2 ques
+<br/><t/>- BT: BFS travel; using Que; record NULL
+<br/><t/>- BST: preorder travel; using Que to retrieve them; X need to record NULL
+<br/><t/>- N-nary T: BFS travel & num of Children; using 2 ques
