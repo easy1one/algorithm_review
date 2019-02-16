@@ -1,4 +1,4 @@
-# Algorithm Reviews
+# Algorithm and Database Reviews
 
 ## 1. Types of Problem
 1) __Graph, Topological, Union Find__
