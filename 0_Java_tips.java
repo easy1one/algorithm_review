@@ -38,9 +38,12 @@ List<String> list = Arrays.asList(arr);
 List<Integer> list2 = Arrays.asList(1, 2, 3, 4, 5);
 
 // // List -> Array
-// List<String> list = new ArrayList<>();
-// String[] arr = new String[list.size()];
-// arr = list.toArray();
+List<String> list1 = new ArrayList<>();
+// ... add element into list1 ...  
+String[] arr1 = list1.toArray(new String[list1.size()]);
+List<Integer> list2 = new ArrayList<>();
+// ... add element into list2 ...  
+Integer[] arr2 = list2.toArray(new Integer[list2.size()]); // NOT "primitive type" int
 
 // List -> Hash Set
 List<Integer> list = new ArrayList<>();
