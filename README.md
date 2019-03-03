@@ -1,5 +1,7 @@
 # Algorithm and Database Reviews
 
+* JAVA tips ... 
+
 ## 1. Types of Problem
 1) __Graph, Topological, Union Find__
 2) __DFS, BFS, Backtracking__
