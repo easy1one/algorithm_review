@@ -37,14 +37,14 @@ String[] arr = new String[]{"1", "a", "1234"};
 List<String> list = Arrays.asList(arr);
 List<Integer> list2 = Arrays.asList(1, 2, 3, 4, 5);
 
-// List -> Array
-List<String> list = new ArrayList<>();
-String[] arr = new String[list.size()];
-arr = list.toArray();
+// // List -> Array
+// List<String> list = new ArrayList<>();
+// String[] arr = new String[list.size()];
+// arr = list.toArray();
 
 // List -> Hash Set
 List<Integer> list = new ArrayList<>();
-Set<String> set = new HashSet<>(list);
+Set<Integer> set = new HashSet<>(list);
 
 // Arrays -> String
 int[] arr = new int[]{1, 2, 3, 4, 5};
@@ -52,7 +52,7 @@ String str = Arrays.toString(arr);
 
 // if ( List == Array ) ?
 List<Integer> list = new ArrayList<>();
-int[] arr = new int[]{1,2,3};
+Integer[] arr = new Integer[]{1,2,3}; // NOT int, object Integer
 System.out.println(list.equals(Arrays.asList(arr)));
 
 
@@ -100,7 +100,7 @@ PriorityQueue<Integer> pq = new PriorityQueue<>( // ascending order by values in
 /* If tyep of value in the map is Double, */
 Map<Integer, Double> map = new HashMap<>();
 PriorityQueue<Integer> pq = new PriorityQueue<>(
-	(a,b) -> Double.comapre(map.get(a), map.get(b))
+	(a,b) -> Double.compare(map.get(a), map.get(b))
 );
 /* If tyep of value in the map is String, */
 Map<Integer, String> map = new HashMap<>();
