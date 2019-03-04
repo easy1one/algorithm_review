@@ -9,8 +9,8 @@
 <br/><t/>- Pre order, In order, Post order
 4) __Stack, Queue, Heap__
 5) __DP__
-6) __Binary Search__
-7) __LinkedList__
+6) __LinkedList__
+7) __Binary Search__
 8) __2 pointers, Array__
 9) __Greedy__
 10) __MiniMax__
