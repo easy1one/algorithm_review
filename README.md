@@ -9,12 +9,13 @@
 <br/><t/>- Pre order, In order, Post order
 4) __Stack, Queue, Heap__
 5) __DP__
-6) __LinkedList__
-7) __2 pointers, Array__
-8) __Greedy__
-9) __MiniMax__
-10) __Design__
-11) __Binary Indexed Tree__
+6) __Binary Search__
+7) __LinkedList__
+8) __2 pointers, Array__
+9) __Greedy__
+10) __MiniMax__
+11) __Design__
+12) __Binary Indexed Tree__
 
 ## 2. Concepts of Problem
 1) __Dijkstra; using PriorityQueue; Shortest Path Q.maze2__
